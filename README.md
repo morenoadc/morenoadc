@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**morenoadc/morenoadc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋This is Aleny:
 
 -⚡I'm currently pursuing a degree in Computer Engineering at the University of Cincinnati
